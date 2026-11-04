@@ -1,0 +1,22 @@
+{
+  "OrderID": 10452,
+  "Address": "Av. Corrientes 1234, CABA, Argentina",
+  "Status": "En tránsito",
+  "Articles": [
+    {
+      "Name": "Caja de herramientas de precisión",
+      "Quantity": 2,
+      "Dangerous": false
+    },
+    {
+      "Name": "Baterías de litio para montacargas",
+      "Quantity": 5,
+      "Dangerous": true
+    },
+    {
+      "Name": "Aceite lubricante industrial",
+      "Quantity": 1,
+      "Dangerous": true
+    }
+  ]
+}
